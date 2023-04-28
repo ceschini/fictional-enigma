@@ -1,6 +1,5 @@
 #!/bin/python3
 
-
 # Complete the 'jumpingOnClouds' function below.
 #
 # The function is expected to return an INTEGER.
